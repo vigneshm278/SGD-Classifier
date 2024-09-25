@@ -25,8 +25,8 @@ Step 7: Stop the program.
 ```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: YUVARAJ V
-RegisterNumber:  212223230252
+Developed by: VIGNESH M
+RegisterNumber:  212223240176
 
 import pandas as pd
 from sklearn.datasets import load_iris
